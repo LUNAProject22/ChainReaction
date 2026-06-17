@@ -16,7 +16,7 @@ Causal-Why Video Question Answering [CVPR 2026]</h1>
 
 
 <sup>1</sup>[
-Institute of High Performance Computing, Agency for Science, Technology and Research, Singapore](https://www.a-star.edu.sg/ihpc), 
+Institute of High Performance Computing, Agency for Science, Technology and Research, Singapore](https://www.a-star.edu.sg/ihpc),
 <sup>2</sup>[Centre for Frontier AI Research, Agency for Science, Technology and Research, Singapore](https://www.a-star.edu.sg/cfar),
 <sup>3</sup>[College of Computing and Data Science, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/computing)
 
