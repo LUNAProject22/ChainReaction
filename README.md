@@ -40,11 +40,12 @@ Existing Causal-Why Video Question Answering (VideoQA) models often struggle wit
 ## Citation
 We appreciate your citations if you find our paper related and useful to your research!
 ```
-@article{parmar2025chainreaction,
-  title={ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering},
+@inproceedings{parmar2026causal,
+  title={Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering},
   author={Parmar, Paritosh and Peh, Eric and Fernando, Basura},
-  journal={arXiv preprint arXiv:2508.21010},
-  year={2025}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5860--5870},
+  year={2026}
 }
 ```
 
