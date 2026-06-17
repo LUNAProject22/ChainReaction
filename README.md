@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable
-Causal-Why Video Question Answering</h1>
+Causal-Why Video Question Answering [CVPR 2026]</h1>
 
 <h5 align="center"> If you find this project useful, please give us a star🌟.
 
