@@ -3,10 +3,11 @@
 <h1> ChainReaction: Causal Chain-Guided Reasoning for Modular and Explainable
 Causal-Why Video Question Answering [CVPR 2026]</h1>
 
-<h5 align="center"> If you find this project useful, please give us a star🌟.
+<h5 align="center"> If you find this project useful, please consider giving it a star ⭐ !
 
 <h5 align="center"> 
 
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=github)](https://paritoshparmar.github.io/chainreaction/)
 <a href='https://arxiv.org/abs/2508.21010'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 
