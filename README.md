@@ -26,7 +26,7 @@ Institute of High Performance Computing, Agency for Science, Technology and Rese
 
 ## News
 - [ ] Pre-process and training code 
-- [ ] Code release to generate own Causal Chains
+- [x] Code release to generate own Causal Chains
 - [x] Causal Chains Release
 - [x] **`24 Dec 2025`** We release our paper on [arxiv](https://arxiv.org/abs/2508.21010).
 
@@ -49,6 +49,6 @@ We appreciate your citations if you find our paper related and useful to your re
   year={2026}
 }
 ```
+## Acknowledgement
 
-
-
+- [VILA](https://github.com/NVlabs/VILA)
